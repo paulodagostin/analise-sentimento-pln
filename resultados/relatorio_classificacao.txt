@@ -1,0 +1,11 @@
+Modelo escolhido: C
+Acurácia final: 0.8462
+
+              precision    recall  f1-score   support
+
+    negativo      0.897     0.788     0.839        33
+    positivo      0.806     0.906     0.853        32
+
+    accuracy                          0.846        65
+   macro avg      0.851     0.847     0.846        65
+weighted avg      0.852     0.846     0.846        65

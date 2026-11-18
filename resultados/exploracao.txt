@@ -1,0 +1,23 @@
+Total de avaliações: 260
+
+Distribuição dos sentimentos:
+sentimento
+negativo    130
+positivo    130
+
+Média de palavras por classe:
+sentimento
+negativo    7.707692
+positivo    7.700000
+
+Três exemplos por classe:
+
+POSITIVO:
+- Adorei o aplicativo, show
+- Adorei o atendimento, nota máxima para a equipe
+- Ficou lindo na sala, combinou perfeitamente com os móveis
+
+NEGATIVO:
+- Detestei o fone, ruim, nunca mais compro
+- A embalagem não é excelente
+- Cheguei animado, mas me arrependi, tudo estava sujo
